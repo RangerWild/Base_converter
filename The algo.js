@@ -313,4 +313,5 @@ function changeThFb(){
     hex = hex.join('');
     hexF.value = hex;
     
+    console.log('TRYING')
 }
